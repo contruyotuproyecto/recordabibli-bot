@@ -1,1 +1,8 @@
-
+.env
+.env.local
+secrets.json
+credentials.json
+token.txt
+chat_id.txt
+*.log
+.DS_Store
